@@ -4,7 +4,7 @@ About malstroem
 
 History
 -------
-The malstroem Project was initiated in November 2015 by SDFE who sponsored the development of a
+The malstroem Project was initiated in November 2015 by the Danish Agency for Data Supply and Efficiency (In Danish: Styrelsen for Dataforsyning og Effektivisering, SDFE) who sponsored the development of a
 cloudburst screening method to be carried out by Assoc. Prof. Thomas Balstrøm, Section of Geography &
 Geoinformatics, Institute of Geosciences and Natural Resources, University of Copenhagen. The method
 was implemented as models in ModelBuilder for ArcGIS Desktop 10.4 and documented in Balstrøm (2016,
